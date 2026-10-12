@@ -6,7 +6,7 @@ Retrato lingüístico (*language portrait*) para Android. Grupo de investigació
 
 Solo Android (7.0 o posterior). No disponible para iPhone (iOS).
 
-Versión 1.7.2. SHA-256 del APK: `0600ed778a9120784d1b12d502f351a6e675d09f34953e9ddf5c6c948f4f8c24`
+Versión 1.7.3. SHA-256 del APK: `49e4c1d681062dd90dc2fe846256a23c7ea903f8c99699bfa8a7ad19863ed8ed`
 
 ## Instalación
 
